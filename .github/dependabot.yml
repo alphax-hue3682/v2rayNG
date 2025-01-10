@@ -9,7 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      - package-ecosystem: "gradle" # See documentation for possible values
+  - package-ecosystem: "gradle" # See documentation for possible values
     directory: "/V2rayNG" # Location of package manifests
     schedule:
       interval: "weekly"
